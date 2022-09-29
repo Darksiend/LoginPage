@@ -12,4 +12,15 @@ body {
     rgb(251, 250, 250) 50%,
     rgb(66, 37, 83) 50%
   );
+  display: flex;
+}
+
+.login {
+  border: 1px solid red;
+  width: 50%;
+}
+
+.register {
+  border: 1px solid red;
+  width: 50%;
 }
