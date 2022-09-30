@@ -16,7 +16,6 @@ body {
 }
 
 .login {
-  border: 1px solid red;
   width: 50%;
   display: flex;
   flex-direction: column;
@@ -25,6 +24,10 @@ body {
 }
 
 .register {
-  border: 1px solid red;
   width: 50%;
+}
+
+.container-after-input {
+  display: flex;
+  justify-content: space-around;
 }
