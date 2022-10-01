@@ -19,6 +19,7 @@ body {
     rgb(66, 37, 83) 50%
   );
   display: flex;
+  border-radius: 5px;
 }
 
 .login {
