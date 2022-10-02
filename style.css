@@ -98,3 +98,17 @@ body {
   margin-top: 30px;
   color: rgb(91, 91, 91);
 }
+
+.social-logo {
+  width: 50px;
+  height: 50px;
+}
+
+.connect-with {
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
